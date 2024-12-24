@@ -3,4 +3,4 @@
 ### Things About Me
 
 1. **I Code**
-2. **I Havent Gotten That Far Yet**
+2. **I'm making a Minecraft mod for Fabric!**
